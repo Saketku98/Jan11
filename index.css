@@ -1,0 +1,40 @@
+body{
+    background-color: darkgrey;
+    font-size: 30px;
+    margin: 0;
+}
+h3{
+    text-align: center;
+    padding: auto;
+}
+.a1{
+    position: sticky;
+    background-color: cornsilk;
+    top: 10px;
+    
+}
+.b1{
+    position: sticky;
+    background-color: tomato;
+    top: 10px;
+}
+.c1{
+    position: sticky;
+    background-color: crimson;
+    top: 10px;
+}
+.d1{
+    position: sticky;
+    background-color: yellow;
+    top: 10px;
+}
+.e1{
+    position: sticky;
+    background-color: blue;
+    top: 10px;
+}
+.f1{
+    position: sticky;
+    background-color: burlywood;
+    top: 10px;
+}
